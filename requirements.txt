@@ -1,0 +1,6 @@
+spacy
+python-igraph
+indra
+en_core_web_sm 
+cairocffi
+python-igrpah
